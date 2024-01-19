@@ -12,7 +12,7 @@
 
       <view class="inputSection">
         <view class="inputRow"> 
-          <input class="inputField" :type="passwordVisible ? 'text' : 'password'" placeholder="输入新密码" />
+          <input  class="inputField" :type="passwordVisible ? 'text' : 'password'" placeholder="输入新密码" />
           <image class="eyeIcon" src="/static/eye.png" @click="togglePasswordVisibility"></image> <!-- 修改这里 -->
         </view>
         <text class="errorMsg">必须包含8个字符</text>
@@ -47,5 +47,5 @@ export default {
 </script>
 
 <style>
-@import "changePwd.css";
+@import "changePwd.scss";
 </style>
