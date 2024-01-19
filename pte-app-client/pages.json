@@ -10,9 +10,17 @@
 		  "path" : "pages/passwordLogin/passwordLogin",
 		  "style" : 
 		  {
-		    "navigationBarTitleText" : "",
+		    "navigationBarTitleText" : "账号密码登录",
 		    "enablePullDownRefresh" : false
 		  }
+		},
+		{
+			"path" : "pages/passwordLogin/passwordLogin/passwordLogin",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	"globalStyle": {
