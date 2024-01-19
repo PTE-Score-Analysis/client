@@ -21,6 +21,14 @@
 				"navigationBarTitleText" : "分析",
 				"enablePullDownRefresh" : false
 			}
+		},
+		{
+			"path" : "pages/login/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"enablePullDownRefresh" : false
+			}
 		}
 	],
 	
