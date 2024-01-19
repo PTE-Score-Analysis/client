@@ -90,5 +90,5 @@ export default {
 </script>
 
 <style>
-@import "login.css";
+@import "login.scss";
 </style>
