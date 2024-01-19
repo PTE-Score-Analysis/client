@@ -31,7 +31,7 @@
 			
 			"list": [
 				{
-					"path": "pages/index/index",
+					"pagePath": "pages/index/index",
 					"iconPath": "static/home_default.png",
 					"selectedIconPath": "static/home_selected.png",
 					"text": "首页"
