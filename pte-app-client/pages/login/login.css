@@ -5,6 +5,8 @@
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0.24px;
+  /*    width: 23.4375rem;
+        height: 50.75rem; */
 }
 
 .loginPageBody {
@@ -122,5 +124,6 @@ checkbox {
   height: 2.5rem;
   width: 2.5rem;
   border-radius: 50%;
-  border-color: #FFF;
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
 }
